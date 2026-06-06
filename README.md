@@ -42,7 +42,9 @@
 
 ###
 
-![30-Day Activity Sparkline](https://gitcanvas-api.vercel.app/api/sparkline?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
+<div align="center">
+  <img src="https://gitcanvas-api.vercel.app/api/sparkline?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree" />
+</div>
 
 ###
 
