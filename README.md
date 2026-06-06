@@ -43,27 +43,9 @@
 ###
 
 <div align="center">
-  <img src="https://gitcanvas-api.vercel.app/api/sparkline?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree" alt="30-Day Activity Sparkline"/>
-</div>
-
-###
-
-![GitHub Trophy](https://gitcanvas-api.vercel.app/api/trophy?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
-
-###
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/SraiKree/SraiKree/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/SraiKree/SraiKree/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
-
-###
-
-![Achievement Room](https://gitcanvas-api.vercel.app/api/achievements?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
-
-###
-
-![Calendar Heatmap](https://gitcanvas-api.vercel.app/api/calendar-heatmap?theme=Iron Man Cinematic&font_family=Orbitron&period=Last Year&intensity_mode=auto&level_0=ff0000&level_1=ff3900&level_2=ff6a00&level_3=ff9700&level_4=ffcc00&start_date=2025-06-06&end_date=2026-06-06&username=SraiKree)
 
 ###
 
