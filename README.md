@@ -42,12 +42,29 @@
 
 ###
 
+![30-Day Activity Sparkline](https://gitcanvas-api.vercel.app/api/sparkline?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
+
+###
+
+![GitHub Trophy](https://gitcanvas-api.vercel.app/api/trophy?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/SraiKree/SraiKree/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/SraiKree/SraiKree/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+![Achievement Room](https://gitcanvas-api.vercel.app/api/achievements?theme=Iron Man Cinematic&font_family=Orbitron&username=SraiKree)
+
+###
+
+![Calendar Heatmap](https://gitcanvas-api.vercel.app/api/calendar-heatmap?theme=Iron Man Cinematic&font_family=Orbitron&period=Last Year&intensity_mode=auto&level_0=ff0000&level_1=ff3900&level_2=ff6a00&level_3=ff9700&level_4=ffcc00&start_date=2025-06-06&end_date=2026-06-06&username=SraiKree)
+
+###
+
 <div align="center">
   <a href="https://dev.to/sraikree" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
